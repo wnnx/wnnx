@@ -1,5 +1,4 @@
                                                                        
-=================================================================================
 
                       --                                     --
   
@@ -11,13 +10,12 @@
 
                       
 
-=================================================================================
+                      Private software programmer and developer
 
-                      Private Software Programmer and Developer
 
-=================================================================================
-
-                      Specializing IN Languages Not Limited To:
+                      Specializing in languages not limited to:
 
                                C++, C#, Lua, and Python
 
+
+                      --                                     --
