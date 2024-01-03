@@ -10,7 +10,7 @@
 
                       
 
-                      Private software programmer and developer
+                              Private software developer
 
 
                       Specializing in languages not limited to:
